@@ -1,0 +1,13 @@
+.footer {
+    background-color: #343a40; /* Warna latar belakang gelap */
+    color: white; /* Warna teks putih */
+}
+
+.footer a {
+    text-decoration: none;
+    color: #ffffff; /* Warna tautan putih */
+}
+
+.footer a:hover {
+    color: #ccc; /* Warna tautan saat hover */
+}
